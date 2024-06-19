@@ -1,2 +1,5 @@
-# Source-Code
-Welcome to my Python source code repository! This repository serves as a centralized hub where I'll be uploading various Python scripts and modules that I have developed. The code ranges from simple utility functions to complex algorithms, all aimed at solving practical problems or demonstrating programming techniques.
+# face-recognition-based-attendance-system  
+
+Do visit my blog for better explanations: https://machinelearningprojects.net/face-recognition-based-attendance-system/
+
+![Face Recognition Based Attendance System](ss.png)
